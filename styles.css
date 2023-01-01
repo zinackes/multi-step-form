@@ -1,0 +1,20 @@
+body{
+    background-color: hsl(217, 100%, 97%);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    background-color: hsl(0, 0%, 100%);
+}
+
+.left{
+    background-image: url("./assets/images/bg-sidebar-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: auto;
+}
